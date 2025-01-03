@@ -1,0 +1,14 @@
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\FifteenPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\FifteenPuzzle.AssemblyInfoInputs.cache
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\FifteenPuzzle.AssemblyInfo.cs
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\FifteenPuzzle.csproj.CoreCompileInputs.cache
+D:\Пятнашки.game\FifteenPuzzle\bin\Debug\net9.0\FifteenPuzzle.exe
+D:\Пятнашки.game\FifteenPuzzle\bin\Debug\net9.0\FifteenPuzzle.deps.json
+D:\Пятнашки.game\FifteenPuzzle\bin\Debug\net9.0\FifteenPuzzle.runtimeconfig.json
+D:\Пятнашки.game\FifteenPuzzle\bin\Debug\net9.0\FifteenPuzzle.dll
+D:\Пятнашки.game\FifteenPuzzle\bin\Debug\net9.0\FifteenPuzzle.pdb
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\FifteenPuzzle.dll
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\refint\FifteenPuzzle.dll
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\FifteenPuzzle.pdb
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\FifteenPuzzle.genruntimeconfig.cache
+D:\Пятнашки.game\FifteenPuzzle\obj\Debug\net9.0\ref\FifteenPuzzle.dll
